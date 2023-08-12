@@ -1,2 +1,4 @@
 # random-pokemon
-Created with CodeSandbox
+A basic React app that fetches and displays a new Pokemon on each page load. 
+
+
